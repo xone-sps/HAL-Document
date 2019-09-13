@@ -1,0 +1,21 @@
+.table.theme-color.thead thead th {
+    color: #000;
+}
+.body_scroll{
+	margin-top: 25px;
+}
+.theme-blush .sidebar .menu .list li.active>:first-child i, .theme-blush .sidebar .menu .list li.active>:first-child span {
+    color: #e47297;
+}
+.theme-blush .sidebar .menu .list a:hover {
+    color: #e47297;
+}
+.sidebar .menu .list a:hover{
+	color: #e47297;
+}
+.active{
+	color: #e47297;
+}
+.btn.btn-icon, .navbar .navbar-nav>a.btn.btn-icon{
+	z-index: 4;
+}
